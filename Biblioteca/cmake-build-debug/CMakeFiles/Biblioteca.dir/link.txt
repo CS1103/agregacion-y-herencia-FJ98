@@ -1,0 +1,1 @@
+C:/cygwin64/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Biblioteca.dir/main.cpp.o  -o Biblioteca.exe -Wl,--out-implib,libBiblioteca.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
